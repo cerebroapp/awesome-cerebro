@@ -46,6 +46,7 @@
 - [cerebro-es-everything-plugin](https://www.npmjs.com/package/cerebro-es-everything-plugin) - Cerebro Everything by voidtools interface plugin
 - [cerebro-npm](https://www.npmjs.com/package/cerebro-npm) - A Cerebro plugin for searching NPM packages.
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
+- [cerebro-mal](https://www.npmjs.com/package/cerebro-mal) - MyAnimeList plugin for Cerebro.
 
 ## Boilerplates
 
