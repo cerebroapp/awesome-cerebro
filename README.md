@@ -14,7 +14,7 @@
 
 - [cerebro-linux-system](https://www.npmjs.com/package/cerebro-linux-system) - Cerebro plugin to automate some Linux system features.
 - [cerebro-stackoverflow](https://www.npmjs.com/package/cerebro-stackoverflow) - Cerebro plugin to find answers to questions on stack overflow.
-- [cerebro-hash](https://www.npmjs.com/package/cerebro-hash) - erebro plugin to hash input.
+- [cerebro-hash](https://www.npmjs.com/package/cerebro-hash) - Cerebro plugin to hash input.
 - [cerebro-osx-eject](https://www.npmjs.com/package/cerebro-osx-eject) - Quickly eject mounted volumes in macOS.
 - [cerebro-salary](https://www.npmjs.com/package/cerebro-salary) - Cerebro plugin for calculating take-home wage in Czech Republic..
 - [cerebro-osx-system](https://www.npmjs.com/package/cerebro-osx-system) - Cerebro plugin to automate some OSx system features.
