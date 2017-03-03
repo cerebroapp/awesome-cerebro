@@ -9,6 +9,7 @@
 ## Contents
 
 - [Plugins](#plugins)
+- [Boilerplates](#boilerplates)
 
 ## Plugins
 
@@ -45,6 +46,10 @@
 - [cerebro-es-everything-plugin](https://www.npmjs.com/package/cerebro-es-everything-plugin) - Cerebro Everything by voidtools interface plugin
 - [cerebro-npm](https://www.npmjs.com/package/cerebro-npm) - A Cerebro plugin for searching NPM packages.
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
+
+## Boilerplates
+
+- [Cerebro Plugin](https://github.com/KELiON/cerebro-plugin) - It is boilerplate to create plugins for Cerebro app 
 
 ## License
 
