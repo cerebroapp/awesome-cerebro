@@ -47,6 +47,7 @@
 - [cerebro-npm](https://www.npmjs.com/package/cerebro-npm) - A Cerebro plugin for searching NPM packages.
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
 - [cerebro-mal](https://www.npmjs.com/package/cerebro-mal) - MyAnimeList plugin for Cerebro.
+- [cerebro-reload](https://github.com/lubien/cerebro-reload) - Reload Cerebro using Cerebro.
 
 ## Boilerplates
 
