@@ -48,6 +48,7 @@
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
 - [cerebro-mal](https://www.npmjs.com/package/cerebro-mal) - MyAnimeList plugin for Cerebro.
 - [cerebro-reload](https://github.com/lubien/cerebro-reload) - Reload Cerebro using Cerebro.
+- [cerebro-aqi](https://www.npmjs.com/package/cerebro-aqi) - Search for AQI (Air Quality Index) information of cities.
 
 ## Boilerplates
 
