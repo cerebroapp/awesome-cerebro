@@ -10,9 +10,9 @@
 
 - [Plugins](#plugins)
   - [Operational System Exclusives](#operational-system-exclusives)
-    - [Linux](#linux)
     - [macOS](#macos)
     - [Windows](#windows)
+    - [Linux](#linux)
 - [Boilerplates](#boilerplates)
 
 ## Plugins
