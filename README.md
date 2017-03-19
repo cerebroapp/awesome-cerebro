@@ -49,6 +49,7 @@
 - [cerebro-mdn](https://github.com/tiagoamaro/cerebro-mdn) - Cerebro's plugin to search terms on MDN (Mozilla Developer Network).
 - [cerebro-rubygems](https://github.com/tiagoamaro/cerebro-rubygems) - Cerebro's plugin to search gems on Rubygems.
 - [cerebro-pass](https://github.com/jsantiagoh/cerebro-pass) - Cerebro's plugin to search and copy passwords from [pass](https://www.passwordstore.org/).
+- [cerebro-base64](https://github.com/Krbz/cerebro-base64) - Cerebro's plugin to decode and encode buffer using base64 methods
 
 ### Operational System Exclusives
 
