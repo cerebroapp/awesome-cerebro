@@ -52,7 +52,8 @@
 - [cerebro-rubygems](https://github.com/tiagoamaro/cerebro-rubygems) - Cerebro's plugin to search gems on Rubygems.
 - [cerebro-pass](https://github.com/jsantiagoh/cerebro-pass) - Cerebro's plugin to search and copy passwords from [pass](https://www.passwordstore.org/).
 - [cerebro-base64](https://github.com/Krbz/cerebro-base64) - Cerebro plugin to decode and encode buffer using base64 methods.
-- [cerebro-weather](https://github.com/BrainMaestro/cerebro-weather) - Simple weather plugin for concise five-day forecasts.                                                                                                
+- [cerebro-weather](https://github.com/BrainMaestro/cerebro-weather) - Simple weather plugin for concise five-day forecasts.
+- [cerebro-text-case](https://www.npmjs.com/package/cerebro-text-case) - UpperCase or LowerCase your texts easily.
 
 ### Operational System Exclusives
 
