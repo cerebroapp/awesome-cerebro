@@ -81,7 +81,7 @@
 
 ## Articles
 
-- [Building Small Apps with React - Cerebro](https://github.com/BrainMaestro/primer/blob/master/react/building-small-apps-with-react-cerebro.md). 
+- [Building Small Apps with React - Cerebro](https://github.com/BrainMaestro/primer/blob/master/react/building-small-apps-with-react-cerebro.md).
 
 ## Tools
 
