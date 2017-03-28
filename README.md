@@ -55,6 +55,7 @@
 - [cerebro-base64](https://github.com/Krbz/cerebro-base64) - Cerebro plugin to decode and encode buffer using base64 methods.
 - [cerebro-weather](https://github.com/BrainMaestro/cerebro-weather) - Simple weather plugin for concise five-day forecasts.
 - [cerebro-text-case](https://www.npmjs.com/package/cerebro-text-case) - UpperCase or LowerCase your texts easily.
+- [cerebro-packagist](https://www.npmjs.com/package/cerebro-packagist) - Find packages by tag on packagist.org.
 
 ### Operational System Exclusives
 
