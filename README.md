@@ -56,6 +56,7 @@
 - [cerebro-weather](https://github.com/BrainMaestro/cerebro-weather) - Simple weather plugin for concise five-day forecasts.
 - [cerebro-text-case](https://www.npmjs.com/package/cerebro-text-case) - UpperCase or LowerCase your texts easily.
 - [cerebro-packagist](https://www.npmjs.com/package/cerebro-packagist) - Find packages by tag on packagist.org.
+- [cerebro-define](https://github.com/glja021/cerebro-define) - A Cerebro plugin to quickly look up the meaning of a word.
 
 ### Operational System Exclusives
 
