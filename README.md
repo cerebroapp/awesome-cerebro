@@ -57,6 +57,7 @@
 - [cerebro-text-case](https://www.npmjs.com/package/cerebro-text-case) - UpperCase or LowerCase your texts easily.
 - [cerebro-packagist](https://www.npmjs.com/package/cerebro-packagist) - Find packages by tag on packagist.org.
 - [cerebro-define](https://github.com/glja021/cerebro-define) - A Cerebro plugin to quickly look up the meaning of a word.
+- [cerebro-hotel](https://github.com/lubien/cerebro-hotel) - Cerebro plugin that lets you start, stop and open Hotel apps.
 
 ### Operational System Exclusives
 
