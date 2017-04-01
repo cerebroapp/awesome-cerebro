@@ -58,6 +58,7 @@
 - [cerebro-packagist](https://www.npmjs.com/package/cerebro-packagist) - Find packages by tag on packagist.org.
 - [cerebro-define](https://github.com/glja021/cerebro-define) - A Cerebro plugin to quickly look up the meaning of a word.
 - [cerebro-hotel](https://github.com/lubien/cerebro-hotel) - Cerebro plugin that lets you start, stop and open Hotel apps.
+- [cerebro-gitio](https://github.com/lubien/cerebro-gitio) - Shorten GitHub URLs with git.io.
 
 ### Operational System Exclusives
 
