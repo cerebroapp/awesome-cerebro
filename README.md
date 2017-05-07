@@ -60,6 +60,7 @@
 - [cerebro-hotel](https://github.com/lubien/cerebro-hotel) - Cerebro plugin that lets you start, stop and open Hotel apps.
 - [cerebro-gitio](https://github.com/lubien/cerebro-gitio) - Shorten GitHub URLs with git.io.
 - [cerebro-lol](https://github.com/DavidBernal/cerebro-lol) - Cerebro's plugin to search counters for League of Legends.
+- [cerebro-youdao](https://github.com/lcjnil/cerebro-youdao) - Cerebro's plugin to translate via youdao dict.
 
 ### Operational System Exclusives
 
