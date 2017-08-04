@@ -13,7 +13,7 @@
     - [macOS](#macos)
     - [Windows](#windows)
     - [Linux](#linux)
-- [Boilerplates](#boilerplates)
+- [Development](#development)
 - [Articles](#articles)
 - [Tools](#tools)
 
@@ -83,9 +83,9 @@
 
 - [cerebro-linux-system](https://www.npmjs.com/package/cerebro-linux-system) - Cerebro plugin to automate some Linux system features.
 
-## Boilerplates
+## Development
 
-- [Cerebro Plugin](https://github.com/KELiON/cerebro-plugin) - It is boilerplate to create plugins for Cerebro app.
+- [create-cerebro-plugin](https://github.com/KELiON/create-cerebro-plugin) - set of tools to create Cerebro plugins
 
 ## Articles
 
