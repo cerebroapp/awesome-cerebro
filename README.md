@@ -47,7 +47,6 @@
 - [cerebro-vaporwave](https://www.npmjs.com/package/cerebro-vaporwave) - Cool text bro but it need more ＶＡＰＯＲＷＡＶＥ.
 - [cerebro-npm](https://www.npmjs.com/package/cerebro-npm) - A Cerebro plugin for searching NPM packages.
 - [cerebro-mal](https://www.npmjs.com/package/cerebro-mal) - MyAnimeList plugin for Cerebro.
-- [cerebro-reload](https://github.com/lubien/cerebro-reload) - Reload Cerebro using Cerebro.
 - [cerebro-aqi](https://www.npmjs.com/package/cerebro-aqi) - Search for AQI (Air Quality Index) information of cities.
 - [cerebro-mdn](https://github.com/tiagoamaro/cerebro-mdn) - Cerebro's plugin to search terms on MDN (Mozilla Developer Network).
 - [cerebro-rubygems](https://github.com/tiagoamaro/cerebro-rubygems) - Cerebro's plugin to search gems on Rubygems.
