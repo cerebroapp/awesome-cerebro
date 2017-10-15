@@ -85,7 +85,7 @@
 
 ## Development
 
-- [create-cerebro-plugin](https://github.com/KELiON/create-cerebro-plugin) - set of tools to create Cerebro plugins
+- [create-cerebro-plugin](https://github.com/KELiON/create-cerebro-plugin) - set of tools to create Cerebro plugins.
 
 ## Articles
 
