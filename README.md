@@ -73,6 +73,8 @@
 - [cerebro-osx-define](https://www.npmjs.com/package/cerebro-osx-define) - Cerebro plugin to define entered text in OSx dictionary.
 - [cerebro-osx-eject](https://www.npmjs.com/package/cerebro-osx-eject) - Quickly eject mounted volumes in macOS.
 - [cerebro-osx-system](https://www.npmjs.com/package/cerebro-osx-system) - Cerebro plugin to automate some OSx system features.
+- [cerebro-iterm](https://www.npmjs.com/package/cerebro-iterm) - Execute any shell command from Cerebro search line in iTerm.
+
 
 #### Windows
 
