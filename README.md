@@ -65,6 +65,7 @@
 - [cerebro-recipes](https://github.com/wolfika/cerebro-recipes) - Cerebro plugin to find food and drink recipes using the Recipe Puppy API.
 - [cerebro-snippets](https://github.com/puyt/cerebro-snippets) - Cerebro plugin to create snippets from clipboard.
 - [cerebro-npms](https://www.npmjs.com/package/cerebro-npms) - Cerebro plugin to search NPM packages via NPMS API.
+- [cerebro-xkcd](https://www.npmjs.com/package/cerebro-xkcd) - XKCD plugin for Cerebro.
 
 ### Operational System Exclusives
 
