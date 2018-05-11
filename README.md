@@ -67,6 +67,7 @@
 - [cerebro-npms](https://www.npmjs.com/package/cerebro-npms) - Cerebro plugin to search NPM packages via NPMS API.
 - [cerebro-xkcd](https://www.npmjs.com/package/cerebro-xkcd) - XKCD plugin for Cerebro.
 - [cerebro-codelf](https://github.com/carlos-wong/cerebro-codelf/blob/master/README_EN.md) - Cerebro plugin to search varialble names over projects.
+- [cerebro-torrent](https://github.com/wangshub/cerebro-torrent) - Cerebro plugin to search torrent of movies.
 
 ### Operational System Exclusives
 
