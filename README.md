@@ -69,6 +69,7 @@
 - [cerebro-codelf](https://github.com/carlos-wong/cerebro-codelf/blob/master/README_EN.md) - Cerebro plugin to search varialble names over projects.
 - [cerebro-torrent](https://github.com/wangshub/cerebro-torrent) - Cerebro plugin to search torrent of movies.
 - [cerebro-blockchain](https://github.com/tim-hub/cerebro-blockchain) - A cerebro plugin to get the blockchain states and information.
+- [cerebro-filmaffinity](https://github.com/jnavb/cerebro-filmaffinity) - Cerebro plugin to search movie info from filmaffinity webpage.
 
 ### Operational System Exclusives
 
