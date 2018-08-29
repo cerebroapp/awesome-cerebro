@@ -86,6 +86,7 @@
 
 - [cerebro-es-everything-plugin](https://www.npmjs.com/package/cerebro-es-everything-plugin) - Cerebro Everything by voidtools interface plugin.
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
+- [cerebro-windows-shell](https://www.npmjs.com/package/cerebro-windows-shell) - Cerebro plugin that allows to run windows commands
 
 #### Linux
 
