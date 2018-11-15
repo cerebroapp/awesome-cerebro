@@ -72,6 +72,7 @@
 - [cerebro-filmaffinity](https://github.com/jnavb/cerebro-filmaffinity) - Cerebro plugin to search movie info from filmaffinity webpage.
 - [cerebro-wolfram-alpha](https://www.npmjs.com/package/cerebro-wolfram-alpha) - Cerebro plugin to use WolframAlpha API.
 - [cerebro-yahoo-dic](https://www.npmjs.com/package/cerebro-yahoo-dic) - Cerebro plugin to translate English to Chinese via Yahoo! Dictionary.
+- [cerebro-shorten-url](https://www.npmjs.com/package/cerebro-shorten-url) - Cerebro plugin to shorten url with bitly.
 
 ### Operational System Exclusives
 
