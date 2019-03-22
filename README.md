@@ -73,7 +73,7 @@
 - [cerebro-wolfram-alpha](https://www.npmjs.com/package/cerebro-wolfram-alpha) - Cerebro plugin to use WolframAlpha API.
 - [cerebro-yahoo-dic](https://www.npmjs.com/package/cerebro-yahoo-dic) - Cerebro plugin to translate English to Chinese via Yahoo! Dictionary.
 - [cerebro-shorten-url](https://www.npmjs.com/package/cerebro-shorten-url) - Cerebro plugin to shorten url with bitly.
-- [cerebro-nzh](https://www.npmjs.com/package/cerebro-num-nzh) - Cerebro plugin to convert digit number to chinese Char
+- [cerebro-nzh](https://www.npmjs.com/package/cerebro-num-nzh) - Cerebro plugin to convert digit number to chinese Char.
 
 ### Operational System Exclusives
 
