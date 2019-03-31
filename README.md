@@ -94,6 +94,7 @@
 #### Linux
 
 - [cerebro-linux-system](https://www.npmjs.com/package/cerebro-linux-system) - Cerebro plugin to automate some Linux system features.
+- [cerebro-window-manager](https://www.npmjs.com/package/cerebro-window-manager) - Cerebro plugin to list open windows and raise or close them.
 
 ## Development
 
