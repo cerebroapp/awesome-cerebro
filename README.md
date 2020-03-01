@@ -51,6 +51,7 @@
 - [cerebro-mdn](https://github.com/tiagoamaro/cerebro-mdn) - Cerebro's plugin to search terms on MDN (Mozilla Developer Network).
 - [cerebro-rubygems](https://github.com/tiagoamaro/cerebro-rubygems) - Cerebro's plugin to search gems on Rubygems.
 - [cerebro-pass](https://github.com/jsantiagoh/cerebro-pass) - Cerebro's plugin to search and copy passwords from [pass](https://www.passwordstore.org/).
+- [cerebro-base2x16](https://github.com/berthin/cerebro-base2x16) - Converts a number to decimal, hexadecimal, and binary bases.
 - [cerebro-base64](https://github.com/Krbz/cerebro-base64) - Cerebro plugin to decode and encode buffer using base64 methods.
 - [cerebro-weather](https://github.com/BrainMaestro/cerebro-weather) - Simple weather plugin for concise five-day forecasts.
 - [cerebro-text-case](https://www.npmjs.com/package/cerebro-text-case) - UpperCase or LowerCase your texts easily.
@@ -73,6 +74,9 @@
 - [cerebro-wolfram-alpha](https://www.npmjs.com/package/cerebro-wolfram-alpha) - Cerebro plugin to use WolframAlpha API.
 - [cerebro-yahoo-dic](https://www.npmjs.com/package/cerebro-yahoo-dic) - Cerebro plugin to translate English to Chinese via Yahoo! Dictionary.
 - [cerebro-shorten-url](https://www.npmjs.com/package/cerebro-shorten-url) - Cerebro plugin to shorten url with bitly.
+- [cerebro-file-search](https://github.com/lucky125111/cerebro-search-linux) - Cerebro plugin for fast file and folder search everywhere on your computer.
+- [cerebro-baidu](https://github.com/aak1247/cerebro-baidu) - Cerebro plugin to search in baidu.
+- [cerebro-phpstorm](https://www.npmjs.com/package/cerebro-phpstorm) - Cerebro plugin to launch PhpStorm projects.
 - [cerebro-nzh](https://www.npmjs.com/package/cerebro-num-nzh) - Cerebro plugin to convert digit number to chinese Char.
 
 ### Operational System Exclusives
@@ -95,6 +99,7 @@
 #### Linux
 
 - [cerebro-linux-system](https://www.npmjs.com/package/cerebro-linux-system) - Cerebro plugin to automate some Linux system features.
+- [cerebro-window-manager](https://www.npmjs.com/package/cerebro-window-manager) - Cerebro plugin to list open windows and raise or close them.
 
 ## Development
 
