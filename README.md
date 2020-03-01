@@ -77,6 +77,7 @@
 - [cerebro-file-search](https://github.com/lucky125111/cerebro-search-linux) - Cerebro plugin for fast file and folder search everywhere on your computer.
 - [cerebro-baidu](https://github.com/aak1247/cerebro-baidu) - Cerebro plugin to search in baidu.
 - [cerebro-phpstorm](https://www.npmjs.com/package/cerebro-phpstorm) - Cerebro plugin to launch PhpStorm projects.
+- [cerebro-nzh](https://www.npmjs.com/package/cerebro-num-nzh) - Cerebro plugin to convert digit number to chinese Char.
 
 ### Operational System Exclusives
 
