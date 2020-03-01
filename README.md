@@ -74,6 +74,8 @@
 - [cerebro-wolfram-alpha](https://www.npmjs.com/package/cerebro-wolfram-alpha) - Cerebro plugin to use WolframAlpha API.
 - [cerebro-yahoo-dic](https://www.npmjs.com/package/cerebro-yahoo-dic) - Cerebro plugin to translate English to Chinese via Yahoo! Dictionary.
 - [cerebro-shorten-url](https://www.npmjs.com/package/cerebro-shorten-url) - Cerebro plugin to shorten url with bitly.
+- [cerebro-file-search](https://github.com/lucky125111/cerebro-search-linux) - Cerebro plugin for fast file and folder search everywhere on your computer.
+- [cerebro-baidu](https://github.com/aak1247/cerebro-baidu) - Cerebro plugin to search in baidu.
 - [cerebro-phpstorm](https://www.npmjs.com/package/cerebro-phpstorm) - Cerebro plugin to launch PhpStorm projects.
 
 ### Operational System Exclusives
