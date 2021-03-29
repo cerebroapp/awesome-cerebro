@@ -88,7 +88,7 @@
 - [cerebro-osx-eject](https://www.npmjs.com/package/cerebro-osx-eject) - Quickly eject mounted volumes in macOS.
 - [cerebro-osx-system](https://www.npmjs.com/package/cerebro-osx-system) - Cerebro plugin to automate some OSx system features.
 - [cerebro-iterm](https://www.npmjs.com/package/cerebro-iterm) - Execute any shell command from Cerebro search line in iTerm.
-- [cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) - Cerebro plugin to find window or tab and switch
+- [cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) - Cerebro plugin to find window or tab and switch.
 
 #### Windows
 
