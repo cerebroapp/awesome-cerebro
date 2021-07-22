@@ -79,6 +79,7 @@
 - [cerebro-phpstorm](https://www.npmjs.com/package/cerebro-phpstorm) - Cerebro plugin to launch PhpStorm projects.
 - [cerebro-nzh](https://www.npmjs.com/package/cerebro-num-nzh) - Cerebro plugin to convert digit number to chinese Char.
 - [cerebro-thingiverse](https://github.com/fcannizzaro/cerebro-thingiverse) - Cerebro plugin to find 3d things on [thingiverse](https://www.thingiverse.com/).
+- [cerebro-todoist](https://github.com/dubisdev/cerebro-todoist) - Cerebro plugin to create and manage Todoist Tasks.
 
 ### Operational System Exclusives
 
