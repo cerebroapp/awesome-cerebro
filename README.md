@@ -107,6 +107,7 @@
 ## Development
 
 - [create-cerebro-plugin](https://github.com/KELiON/create-cerebro-plugin) - set of tools to create Cerebro plugins.
+- [cerebro-plugin-boilerplate](https://github.com/dubisdev/cerebro-plugin-boilerplate) - Updated cerebro plugin template with a faster and customizable build system.
 
 ## Articles
 
